@@ -13,6 +13,9 @@
     justify-content: center;
     align-items: center;
     z-index: 0;
+
+    color: white;
+    text-decoration: none;
 }
 
 .cover::after {
@@ -48,5 +51,7 @@
 @media screen and (max-width: 767px) {
     .cover {
         min-height: 200px;
+        justify-content: center;
+        gap: 20px;
     }
 }

@@ -23,6 +23,6 @@
 @media screen and (max-width: 767px) {
     .places {
         width: 100%;
-        row-gap: 50px;
+        row-gap: 49px;
     }
 }
