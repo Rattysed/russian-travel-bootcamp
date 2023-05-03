@@ -1,6 +1,6 @@
 .cover {
     background-image: url("../../images/background.png");
-    min-width: calc(100% - 2 * 48px); 
+    min-width: calc(100% - 2 * 48px);
     margin: auto;
     background-position: center center;
     background-size: cover;
