@@ -1,0 +1,7 @@
+.header__link-set {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+
+    align-self: flex-end;
+}
